@@ -6,7 +6,7 @@ export default () =>
 		<p>
 			Source of names list:
 			{' '}
-			<a href="https://www.yahoo.com/news/atticus-tops-baby-names-2015-124073377716">Yaho - Top Baby Names in 2015</a>
+			<a href="https://www.yahoo.com/news/atticus-tops-baby-names-2015-124073377716">Yahoo - Top Baby Names in 2015</a>
 		</p>
 		</div>
 
